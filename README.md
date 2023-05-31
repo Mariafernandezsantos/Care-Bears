@@ -1,2 +1,2 @@
 # Care-Bears
-Ejercicio Grid Care Bears
+Ejercicio Css Grid Care Bears
